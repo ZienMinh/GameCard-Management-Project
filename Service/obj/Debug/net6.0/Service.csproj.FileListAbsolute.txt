@@ -1,0 +1,15 @@
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\bin\Debug\net6.0\Service.deps.json
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\bin\Debug\net6.0\Service.dll
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\bin\Debug\net6.0\Service.pdb
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\obj\Debug\net6.0\Service.dll
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\obj\Debug\net6.0\refint\Service.dll
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\obj\Debug\net6.0\Service.pdb
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\obj\Debug\net6.0\ref\Service.dll
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\bin\Debug\net6.0\Repositories.dll
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\bin\Debug\net6.0\Repositories.pdb
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\PRN211_CODE\repos\PE_PRN211_FA23_567555_MinhNLV\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
